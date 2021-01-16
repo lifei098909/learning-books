@@ -1,3 +1,2 @@
-# hello-world
-Just another repository
-test for the fisrt time!
+# C/C++ 从入门到精通
+一份整理C/C++ 相关从入门到精通经典书籍，如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
